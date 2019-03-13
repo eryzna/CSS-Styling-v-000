@@ -1,6 +1,10 @@
 <style>
 @import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
 </style>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand');
+</style>
+
 /*This is a comment*/
 
 /*CSS Syntax:
@@ -20,7 +24,7 @@ figcaption {
   font-size: 0.75em;
   line-height:1.5em;
   font-family: Georgia, "New Times Roman", serif;*/
-  font: normal 0.75em/1.5em Gerogia, "Times New Roman", serif;
+  font: normal 0.75em/1.5em 'Elsie Swash Caps', cursive;
   color: #0753de;
   text-align: right;
 }
