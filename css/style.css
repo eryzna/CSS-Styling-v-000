@@ -9,7 +9,7 @@ property: value;
 
 p{
   font-size: 16px; /* 16px default in most browsers; can also use pts, percentages, and ems(width of the letter m) To determine how many ems, divide pixels by default 16px*/
-  line-height: 1.5em        
+  line-height: 1.5em
 }
 
 figcaption {
