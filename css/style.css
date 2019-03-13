@@ -14,6 +14,7 @@ prooperty: value;
 property: value;
 }*/
 
+/* Type selector styles on type of element*/
 p{
   font-size: 16px; /* 16px default in most browsers; can also use pts, percentages, and ems(width of the letter m) To determine how many ems, divide pixels by default 16px*/
   line-height: 1.5em
@@ -28,3 +29,13 @@ figcaption {
   color: #0753de;
   text-align: right;
 }
+
+/* Class selector (applies to as many elements as you want) */
+
+.milk-text {
+  font: bold 2.6em 'Patrick Hand', cursive;
+  color: white; 
+  text-shadow: 0 2px 3px #000;
+  }/* selects elements wiht class="milk-text"
+
+
