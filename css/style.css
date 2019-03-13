@@ -37,3 +37,9 @@ figcaption {
   color: white;
   text-shadow: 0 2px 3px #000;
   }/* selects elements wiht class="milk-text"
+
+/* ID selector (apply to one unique element per page)*/
+
+#logo {
+  background: aqua
+}
