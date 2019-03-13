@@ -1,0 +1,20 @@
+/*This is a comment*/
+
+/*CSS Syntax:
+
+selector {
+prooperty: value;
+property: value;
+}*/
+
+p{
+  font-size: 16px; /* 16px default in most browsers; can also use pts, percentages, and ems(width of the letter m) To determine how many ems, divide pixels by default 16px*/
+  line-height: 1.5em        
+}
+
+figcaption {
+  font-weight: normal;
+  font-size: 0.75em;
+  line-height:1.5em;
+  font-family: Georgia, "New Times Roman", serif;
+}
